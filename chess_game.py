@@ -129,9 +129,7 @@ class ChessInPython:
 
         #setting the game to not show stats screen by default
         self.show_stats_screen = False  
-        #setting the win probability for both players, initially as 50% for both
-        self.win_probability = {"white": 50, "black": 50}  
-
+     
         #loading the sound effects
         self.sounds = load_sound()  
 
