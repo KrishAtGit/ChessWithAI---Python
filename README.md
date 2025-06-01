@@ -19,7 +19,7 @@ This is a complete chess game developed in Python utilizing Pygame and the Stock
 
 ## Installation
 1. ### Clone Repository
-    ```git clone https://github.com/KrishAtGit/ChessWithAI--Python.git```
+    ```git clone https://github.com/KrishAtGit/ChessWithAI--Python.git``` and 
     ```cd ChessWithAI--Python```
 
 2.  ### Install dependencies
