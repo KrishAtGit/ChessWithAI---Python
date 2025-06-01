@@ -18,11 +18,11 @@ This is a complete chess game developed in Python utilizing Pygame and the Stock
 - Stockfish chess engine
 
 ## Installation
-1. Clone Repository
+1. ### Clone Repository
     git clone https://github.com/KrishAtGit/ChessWithAI--Python.git
     cd ChessWithAI--Python
 
-2. Install dependencies:
+2.  ### Install dependencies:
     pip install pygame python-chess
 
 3. Install StockFish
