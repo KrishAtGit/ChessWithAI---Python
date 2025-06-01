@@ -1,8 +1,8 @@
-#CHESS GAME IN PYTHON, WITH AI
-##Overview
+# CHESS GAME IN PYTHON, WITH AI
+## Overview
 This is a complete chess game developed in Python utilizing Pygame and the Stockfish chess engine. Compete against an AI opponent with customizable difficulty settings, all while experiencing smooth animations and sound effects.
 
-##Features
+## Features
 - Complete implementation of chess rules and piece movements
 - AI powered opponent using StockFish
 - Different levels of AI, 0 - 20
@@ -11,15 +11,15 @@ This is a complete chess game developed in Python utilizing Pygame and the Stock
 - Game restart functionality
 - Pawn promotion to queen
 
-##Requirements
+## Requirements
 - Python 3.7+
 - Pygame
 - python-chess
 - Stockfish chess engine
 
-##Installation
+## Installation
 1. Clone Repository
-    git clone https://github.com/yourusername/python-chess.git
+    git clone https://github.com/KrishAtGit/ChessWithAI--Python.git
     cd python-chess
 
 2. Install dependencies:
