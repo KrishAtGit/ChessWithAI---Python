@@ -11,6 +11,13 @@ This is a complete chess game developed in Python utilizing Pygame and the Stock
 - Game restart functionality
 - Pawn promotion to queen
 
+## PAWN PROMOTION
+- ![Screenshot 2025-06-01 211244](https://github.com/user-attachments/assets/570c1e34-aa49-45af-8056-e56baad0ac76)
+  
+- ![Screenshot 2025-06-01 211255](https://github.com/user-attachments/assets/038c1ad0-5953-4bce-8ec4-d97b5a96b837)
+
+- ![Screenshot 2025-06-01 211305](https://github.com/user-attachments/assets/854e1d87-3019-4f0a-ae03-a02620e8ed09)
+
 ## Requirements
 - Python 3.7+
 - Pygame
