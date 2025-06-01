@@ -19,16 +19,16 @@ This is a complete chess game developed in Python utilizing Pygame and the Stock
 
 ## Installation
 1. ### Clone Repository
-    git clone https://github.com/KrishAtGit/ChessWithAI--Python.git
-    cd ChessWithAI--Python
+    ```git clone https://github.com/KrishAtGit/ChessWithAI--Python.git```
+    ```cd ChessWithAI--Python```
 
-2.  ### Install dependencies:
-    pip install pygame python-chess
+2.  ### Install dependencies
+    ```pip install pygame python-chess```
 
-3. Install StockFish
+3. ### Install StockFish
     Link: https://stockfishchess.org/download/
 
-4. Change the path of StockFish in code
-
-5. Run the code
-    python chess_game.py
+4. ### Change the path of StockFish in code
+    ```self.engine = chess.engine.SimpleEngine.popen_uci("path\to\stockfish.exe")```
+5. ### Run the code
+    ```python chess_game.py```
