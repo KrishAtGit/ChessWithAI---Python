@@ -4,12 +4,12 @@ This is a complete chess game developed in Python utilizing Pygame and the Stock
 
 ## Features
 - Complete implementation of chess rules and piece movements
-- AI powered opponent using StockFish
-- Different levels of AI, 0 - 20
+- AI powered opponent using StockFish 
+- Different levels of AI, 0 - 20 (Press 'S' to view)
 - Piece animations
 - Visual highlighting of valid moves
-- Game restart functionality
-- Pawn promotion to queen
+- Game restart functionality (Press 'R')
+- Pawn promotion to queen (Auto)
 
 ## PAWN PROMOTION
 - ![Screenshot 2025-06-01 211244](https://github.com/user-attachments/assets/570c1e34-aa49-45af-8056-e56baad0ac76)
